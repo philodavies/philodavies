@@ -3,4 +3,4 @@ I'm a network technology student with an interest in BGP, automation, and golang
 
 My Github Stats:
 <br>
-<img src = "https://github-readme-stats.vercel.app/api?username=philodavies&show_icons=true&theme=dracula">
+<img src = "https://github-readme-stats.vercel.app/api?username=philodavies&show_icons=true&theme=dracula&hide=stars">
